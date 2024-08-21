@@ -33,7 +33,6 @@ Soy un profesional de la informática apasionado por escribir código, resolver 
 ## 📫 Contactame
 
 <p
-  <a href="mailto:marco24cruz08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/marco-acg24/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/marco_cg24"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+  <a href="mailto:pablo@broslunas.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
+O también a travez de mi formulario de [Contacto](https://broslunas.com/contacto)
