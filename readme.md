@@ -37,4 +37,4 @@ Soy un profesional de la informática apasionado por escribir código, resolver 
 </p>
 O también a travez de mi formulario de
 
-![Contacto](https://broslunas.com/contacto)
+(Contacto)[https://broslunas.com/contacto]
