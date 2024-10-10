@@ -35,4 +35,4 @@ Soy un profesional de la informática apasionado por escribir código, resolver 
 <p
   <a href="mailto:pablo@broslunas.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-O también a travez de mi formulario de [Contacto](https://broslunas.com/contacto)
+O también a travez de mi formulario de ![Contacto](https://broslunas.com/contacto)
